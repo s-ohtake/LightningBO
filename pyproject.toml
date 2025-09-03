@@ -1,6 +1,6 @@
 [project]
 name = "LightningBO"
-version = "0.1.1"
+version = "0.1.2"
 description = "LightningBO: JAXベースの高速ベイジアン最適化ライブラリ。ハイパーパラメータ探索やマーケティング最適化に最適。EI/PI/UCB/LCB獲得関数、ガウス過程、JIT高速化、メモリ効率設計。"
 requires-python = ">=3.12"
 authors = [
@@ -29,4 +29,4 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/s-ohtake/LightningBO"
 Repository = "https://github.com/s-ohtake/LightningBO"
-Documentation = "https://github.com/s-ohtake/LightningBO/docs/LightningBO.ipynb"
+Documentation = "https://github.com/s-ohtake/LightningBO/blob/main/docs/LightningBO.ipynb"
