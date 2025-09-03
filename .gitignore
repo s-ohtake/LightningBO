@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Hatch
+.hatch/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Test, coverage, and build outputs
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Mac
+.DS_Store
