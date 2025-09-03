@@ -29,4 +29,4 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/s-ohtake/LightningBO"
 Repository = "https://github.com/s-ohtake/LightningBO"
-Documentation = "https://github.com/s-ohtake/LightningBO/docs/LightningBO.ipynb"
+Documentation = "https://github.com/s-ohtake/LightningBO/blob/main/docs/LightningBO.ipynb"
