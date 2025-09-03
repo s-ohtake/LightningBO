@@ -10,5 +10,6 @@ dependencies = [
 	"optax",
 	"numpy",
 	"absl-py",
-	"pytest"
+	"pytest",
+	"matplotlib"
 ]
