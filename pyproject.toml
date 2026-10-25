@@ -21,10 +21,15 @@ dependencies = [
     "jaxlib",
     "optax",
     "numpy",
-    "absl-py",
-    "pytest",
-    "matplotlib"
+    "absl-py"
 ]
+
+[project.optional-dependencies]
+test = ["pytest"]
+viz = ["matplotlib"]
+
+[tool.hatch.envs.default]
+features = ["test"]
 
 [project.urls]
 Homepage = "https://github.com/s-ohtake/LightningBO"
